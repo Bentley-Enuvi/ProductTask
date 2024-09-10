@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>6eb69d07-4be1-4d24-8884-1f940d51cbaa</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.42.0" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="2.16.0" />
+    <PackageReference Include="Microsoft.Identity.Web.UI" Version="2.16.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.20.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BAckendCosmosTask.Domain\BAckendCosmosTask.Domain.csproj" />
+    <ProjectReference Include="..\BackendProductTask.Core\BackendProductTask.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+@BackendProductTaskAPI_HostAddress = http://localhost:5180
+
+GET {{BackendProductTaskAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: CosmosB2B, Tenant: INFINION (infinion.co - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}

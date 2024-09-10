@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3oZjs8eZqi+LZakcb+yORmVpLHNyBBmFGZR6tJ9UqIk=",
+  "Source": "BackendProductTaskAPI",
+  "BasePath": "_content/BackendProductTaskAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\BAckendCosmosTask.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\BAckendCosmosTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\BAckendCosmosTask.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\BAckendCosmosTask.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\BAckendCosmosTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\BAckendCosmosTask.Domain.sourcelink.json
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\bin\Debug\net8.0\BAckendCosmosTask.Domain.deps.json
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\bin\Debug\net8.0\BAckendCosmosTask.Domain.dll
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\bin\Debug\net8.0\BAckendCosmosTask.Domain.pdb
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\BAckendCosmosTask.Domain.dll
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\refint\BAckendCosmosTask.Domain.dll
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\BAckendCosmosTask.Domain.pdb
+C:\Users\DELL\source\repos\BackendProductTask\BAckendCosmosTask.Domain\obj\Debug\net8.0\ref\BAckendCosmosTask.Domain.dll
