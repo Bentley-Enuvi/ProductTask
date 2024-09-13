@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackendCosmosTask.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+579daa17c7b6211a0b768a71632aae7751f95c2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce3bcfcdd9f8d0023dd21c6590ac343bb51674df")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackendCosmosTask.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackendCosmosTask.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

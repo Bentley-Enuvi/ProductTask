@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ewbzS873hFc=",
+  "dgSpecHash": "t3iK8N0zhPM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\BackendProductTask\\BAckendCosmosTask.Domain\\BAckendCosmosTask.Domain.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\BackendProductTask\\ProductTask\\BAckendCosmosTask.Domain\\BAckendCosmosTask.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

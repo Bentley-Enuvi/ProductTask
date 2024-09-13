@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dmjIKRnOkXg=",
+  "dgSpecHash": "XgC32YdQhmk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\BackendProductTask\\BackendProductTask.Core\\BackendProductTask.Core.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\BackendProductTask\\ProductTask\\BackendProductTask.Core\\BackendProductTask.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
